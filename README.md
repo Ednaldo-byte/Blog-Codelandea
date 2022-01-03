@@ -5,12 +5,6 @@
       <a href="#-executar-o-projeto">🖇 Execução do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
       <a href="#-licença">📃 Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
-
-<div align="center">
-      <img src=".github/home.png" width="700px"/>
-</div>
-  
-
   ## 🖥 Projeto
   Projeto desenvolvido para fins de prática e desenvolvimento dos conhecimentos de HTML e CSS
 
@@ -20,7 +14,7 @@
   - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
   ## 🖇 Executar o Projeto
-  Para executar o projeto clique no link abaixo
+  Para executar o projeto <a href="https://ednaldo-byte.github.io/Blog-Codelandea/">clique aqui</a>
 
 
   ##  📃 Licença
