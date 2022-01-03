@@ -5,6 +5,9 @@
       <a href="#-executar-o-projeto">🖇 Execução do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
       <a href="#-licença">📃 Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
+
+  <p><img src="home.png"></p>
+  
   ## 🖥 Projeto
   Projeto desenvolvido para fins de prática e desenvolvimento dos conhecimentos de HTML e CSS
 
