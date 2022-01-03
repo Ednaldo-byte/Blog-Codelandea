@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+:root {
+  --blue: #3EA1DB;
+  --blue-dark: #574AE8;
+  --white: #FFF;
+
+  --title: #313131;
+  --text: #B6B6B6;
+  
+  --linear: linear-gradient(90deg, #574AE8 0%, #3EA1DB 100%);
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
+html,
+body {
+  font-size: 62.5%;
+  background-color: #f9f9f9;
+}
+header {
+  width: auto;
+  height: 20rem;
+  background: var(--linear);
+  padding: 4.1rem 27rem 4.1rem 27rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title {
+  width: 90rem;
+  max-width: 90vw;
+  margin: 0 0 7.3rem 0;
+
+  display: flex;
+  justify-content: space-between;
+
+  color: var(--white);
+}
+.title span {
+  font-size: 24px;
+}
+form {
+  width: 95rem;
+  max-width: 90vw;
+  height: 2.5rem;
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  border-radius: 0.5rem;
+  padding: 2rem 0 2rem 0;
+
+  display: flex;
+  align-items: center;
+}
+form img {
+  width: 23px;
+  margin: 2rem;
+}
+input[type='search'] {
+  background: transparent;
+  width: 50%;
+  height: 6.5rem;
+  border: none;
+  font-size: 18px;
+  outline: none;
+  color: #ffffff;
+}
+::placeholder {
+  color: #ffffff;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+section {
+  width: 90rem;
+  max-width: 90vw;
+  height: auto;
+  word-wrap: break-word;
+  background-color: #ffffff;
+  padding: 2.3rem;
+  margin: 5rem 0 0 0;
+  filter: drop-shadow(0px 0px 3px #d9d9d9);
+}
+section:nth-child(1){
+  margin-top: 10rem;
+}
+section:nth-last-child(1){
+  margin-bottom: 10rem;
+}
+section span {
+  font-size: 16px;
+  color: #717171;
+}
+section h1 {
+  font-size: 26px;
+  color: #1a202c;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+}
+section p {
+  font-size: 18px;
+  color: #717171;
+}
+.head{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+button{
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+button img:focus{
+  background: yellow;
+}
