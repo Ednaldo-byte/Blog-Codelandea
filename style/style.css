@@ -119,3 +119,17 @@ button{
 button img:focus{
   background: yellow;
 }
+
+@media (max-width: 800px){
+  * {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+  }
+  header, main{
+    padding: 2rem;
+  }
+  .title, form, section{
+    max-width:80vw;
+  }
+}
