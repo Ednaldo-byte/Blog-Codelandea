@@ -9,7 +9,8 @@
   <p><img src="home.png" style="width: 500px"></p>
   
   ## 🖥 Projeto
-  Projeto desenvolvido para fins de prática e desenvolvimento dos conhecimentos de HTML e CSS
+  <p>Projeto desenvolvido para fins de prática e desenvolvimento dos conhecimentos de HTML e CSS</p>
+  <p>Para ver o projeto no Figma, <a href="https://www.figma.com/file/OFPmaR4BYJd7QeChEOzHgL/Desafios---Codel%C3%A2ndia-(Copy)?node-id=0%3A1">clique aqui</a>.</p>
 
   ## 👨‍💻 Tecnologias
   As tecnologias usadas nesse projeto foram:
@@ -17,7 +18,7 @@
   - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
   ## 🖇 Executar o Projeto
-  Para executar o projeto <a href="https://ednaldo-byte.github.io/Blog-Codelandia/">clique aqui</a>
+  Para executar o projeto <a href="https://ednaldo-byte.github.io/Blog-Codelandia/">clique aqui</a>.
 
 
   ##  📃 Licença
